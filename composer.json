@@ -1,0 +1,24 @@
+{
+  "name": "victoriaplum/moneymoneymoney",
+  "description": "VictoriaPlum.com Money Based Developer Test",
+  "license": "proprietary",
+  "type": "project",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "VictoriaPlum.com",
+      "email": "development@victoriaplum.com"
+    }
+  ],
+  "require": {
+    "php": ">=7"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "VictoriaPlum\\": "src"
+    }
+  }
+}

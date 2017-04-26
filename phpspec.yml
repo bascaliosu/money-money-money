@@ -1,0 +1,8 @@
+suites:
+    MoneyMoneyMoney:
+        namespace: VictoriaPlum\MoneyMoneyMoney
+        psr4_prefix: VictoriaPlum\MoneyMoneyMoney
+        spec_path: src/MoneyMoneyMoney
+        src_path: src/MoneyMoneyMoney
+
+formatter.name: pretty
